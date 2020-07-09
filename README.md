@@ -1,2 +1,1 @@
-# https-sndpchatterjee07.github.io
-Portfolio
+# Portfolio URL: https://sndpchatterjee07.github.io/
